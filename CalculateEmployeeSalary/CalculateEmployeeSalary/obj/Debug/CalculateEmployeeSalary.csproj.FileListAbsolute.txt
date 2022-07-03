@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\bin\Debug\CalculateEmployeeSalary.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\obj\Debug\CalculateEmployeeSalary.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\bin\Debug\CalculateEmployeeSalary.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\bin\Debug\CalculateEmployeeSalary.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\obj\Debug\CalculateEmployeeSalary.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateEmployeeSalary\CalculateEmployeeSalary\obj\Debug\CalculateEmployeeSalary.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateEmployeeSalary\CalculateEmployeeSalary\bin\Debug\CalculateEmployeeSalary.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateEmployeeSalary\CalculateEmployeeSalary\obj\Debug\CalculateEmployeeSalary.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateEmployeeSalary\CalculateEmployeeSalary\obj\Debug\CalculateEmployeeSalary.pdb
